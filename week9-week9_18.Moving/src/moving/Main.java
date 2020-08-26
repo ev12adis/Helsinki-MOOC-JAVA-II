@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import moving.logic.Packer;
 import moving.domain.Box;
 
+
 public class Main {
 
     public static void main(String[] args) {
